@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Kagey</title>
+    <link>https://kageyofficial.com</link>
+    <pubDate>Wed, 19 Feb 2020 23:17:49 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1290949129</wp:author_id>
+      <wp:author_login>waskii.business@gmail.com</wp:author_login>
+      <wp:author_email>waskii.business@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Bartosz Tylczynski]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Bartosz]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Tylczynski]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 23 Feb 2020 00:23:48 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4dc234d619b337433d8aef" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5e4dc6b7d619b337433e6099"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5e4dc6c6f47c3c6c38e9da80&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1582155462566,
+    &quot;updatedOn&quot; : 1582155478961,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1582155462566,
+    &quot;authorId&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+    &quot;systemDataId&quot; : &quot;1582155467095-9HSVDW6N8WPAGDBAH2GQ&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1071,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;Kagey Spotify Banner 1.jpeg&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.4317343173431734,
+      &quot;y&quot; : 0.275899232116395,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;1d1c17&quot;,
+      &quot;topRightAverage&quot; : &quot;9cd2ce&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;241e1b&quot;,
+      &quot;bottomRightAverage&quot; : &quot;2f2924&quot;,
+      &quot;centerAverage&quot; : &quot;1e1916&quot;,
+      &quot;suggestedBgColor&quot; : &quot;1e1d18&quot;
+    },
+    &quot;urlId&quot; : &quot;8htcgqftngglvd1z80g0ax1ptkv13n&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+      &quot;displayName&quot; : &quot;Bartosz Tylczynski&quot;,
+      &quot;firstName&quot; : &quot;Bartosz&quot;,
+      &quot;lastName&quot; : &quot;Tylczynski&quot;,
+      &quot;bio&quot; : &quot;&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582155467095-9HSVDW6N8WPAGDBAH2GQ/ke17ZwdGBToddI8pDm48kLHJ70-JWA9dgEOAbI336f17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NK7gC7ng9OtoO5ep7zCz0n67pPMXhJpSCNtoO-H2bRokQ/Kagey+Spotify+Banner+1.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1071&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot; : 85,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582155467095-9HSVDW6N8WPAGDBAH2GQ/ke17ZwdGBToddI8pDm48kLHJ70-JWA9dgEOAbI336f17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NK7gC7ng9OtoO5ep7zCz0n67pPMXhJpSCNtoO-H2bRokQ/Kagey+Spotify+Banner+1.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582155467095-9HSVDW6N8WPAGDBAH2GQ/ke17ZwdGBToddI8pDm48kLHJ70-JWA9dgEOAbI336f17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NK7gC7ng9OtoO5ep7zCz0n67pPMXhJpSCNtoO-H2bRokQ/Kagey+Spotify+Banner+1.jpeg" data-image-dimensions="2500x1071" data-image-focal-point="0.4317343173431734,0.275899232116395" alt="Kagey Spotify Banner 1.jpeg"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="page-section" data-updated-on="1582920709562" id="page-section-5e4dc6b7d619b337433e6099"></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5e4dc76d73f9fa7acd677aab"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5e4dd6b66344df07b0f5a501&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1582159542319,
+    &quot;updatedOn&quot; : 1582159575249,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1582159542319,
+    &quot;authorId&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+    &quot;systemDataId&quot; : &quot;1582159557753-776CKZKUS02SZJQKCK86&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1668,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;_DSC0031.JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.6223776223776224,
+      &quot;y&quot; : 0.5077287969248385,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;d0d0d0&quot;,
+      &quot;topRightAverage&quot; : &quot;c8c8c8&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;cecece&quot;,
+      &quot;bottomRightAverage&quot; : &quot;f2f2f2&quot;,
+      &quot;centerAverage&quot; : &quot;9a9a9a&quot;,
+      &quot;suggestedBgColor&quot; : &quot;d8d8d8&quot;
+    },
+    &quot;urlId&quot; : &quot;koccoja15lfvb1i3bbblt8eza8nzrf&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+      &quot;displayName&quot; : &quot;Bartosz Tylczynski&quot;,
+      &quot;firstName&quot; : &quot;Bartosz&quot;,
+      &quot;lastName&quot; : &quot;Tylczynski&quot;,
+      &quot;bio&quot; : &quot;&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159557753-776CKZKUS02SZJQKCK86/ke17ZwdGBToddI8pDm48kFmfxoboNKufWj-55Bgmc-J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iXS6XmVv7bUJ418E8Yoc1hjuviiiZmrL38w1ymUdqq4JaGeFUxjM-HeS7Oc-SSFcg/_DSC0031.JPG&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1668&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot; : 85,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159557753-776CKZKUS02SZJQKCK86/ke17ZwdGBToddI8pDm48kFmfxoboNKufWj-55Bgmc-J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iXS6XmVv7bUJ418E8Yoc1hjuviiiZmrL38w1ymUdqq4JaGeFUxjM-HeS7Oc-SSFcg/_DSC0031.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159557753-776CKZKUS02SZJQKCK86/ke17ZwdGBToddI8pDm48kFmfxoboNKufWj-55Bgmc-J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iXS6XmVv7bUJ418E8Yoc1hjuviiiZmrL38w1ymUdqq4JaGeFUxjM-HeS7Oc-SSFcg/_DSC0031.JPG" data-image-dimensions="2500x1668" data-image-focal-point="0.6223776223776224,0.5077287969248385" alt="_DSC0031.JPG"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4dc76d73f9fa7acd677aab"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-ce2f33ed7844c6041219"><div class="sqs-block-content"><div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/music" class="sqs-block-button-element--large sqs-block-button-element" >Listen</a>
+</div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5e4dd2e4d619b337434082b8"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5e4dd57cfebdef4ad90fe7ed&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1582159228386,
+    &quot;updatedOn&quot; : 1582159244326,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1582159228386,
+    &quot;authorId&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+    &quot;systemDataId&quot; : &quot;1582159231510-LU8BBKHE04TAW39W9I5A&quot;,
+    &quot;systemDataVariants&quot; : &quot;1920x816,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;Pretty_Bird_Still_17.jpg&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.29549826856483263,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;675748&quot;,
+      &quot;topRightAverage&quot; : &quot;7b6552&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;7e796a&quot;,
+      &quot;bottomRightAverage&quot; : &quot;24201c&quot;,
+      &quot;centerAverage&quot; : &quot;4d433b&quot;,
+      &quot;suggestedBgColor&quot; : &quot;524032&quot;
+    },
+    &quot;urlId&quot; : &quot;orr9fe40mgipkubiaoj7ks4gcomngt&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+      &quot;displayName&quot; : &quot;Bartosz Tylczynski&quot;,
+      &quot;firstName&quot; : &quot;Bartosz&quot;,
+      &quot;lastName&quot; : &quot;Tylczynski&quot;,
+      &quot;bio&quot; : &quot;&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159231510-LU8BBKHE04TAW39W9I5A/ke17ZwdGBToddI8pDm48kNPnhn4EHxs3WG6sIFArJwEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNjnaNVR0dSwCxw1Nqk5n-i_KjYEzyNs1lUCcw3boP9OpYghpI-Ha_TwZsqqmJXng/Pretty_Bird_Still_17.jpg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;1920x816&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 85,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159231510-LU8BBKHE04TAW39W9I5A/ke17ZwdGBToddI8pDm48kNPnhn4EHxs3WG6sIFArJwEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNjnaNVR0dSwCxw1Nqk5n-i_KjYEzyNs1lUCcw3boP9OpYghpI-Ha_TwZsqqmJXng/Pretty_Bird_Still_17.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159231510-LU8BBKHE04TAW39W9I5A/ke17ZwdGBToddI8pDm48kNPnhn4EHxs3WG6sIFArJwEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNjnaNVR0dSwCxw1Nqk5n-i_KjYEzyNs1lUCcw3boP9OpYghpI-Ha_TwZsqqmJXng/Pretty_Bird_Still_17.jpg" data-image-dimensions="1920x816" data-image-focal-point="0.5,0.29549826856483263" alt="Pretty_Bird_Still_17.jpg"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4dd2e4d619b337434082b8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-122ee5b3a2bebaefb3d1"><div class="sqs-block-content"><div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/video" class="sqs-block-button-element--large sqs-block-button-element" >Watch</a>
+</div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5e4dd2f173f9fa7acd699397"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5e4dd640c4809d64bff38349&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1582159424103,
+    &quot;updatedOn&quot; : 1582159466549,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1582159424103,
+    &quot;authorId&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+    &quot;systemDataId&quot; : &quot;1582159437420-A7ZB33YAX9DIBQWJUX9B&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1875,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;IMG_0027.JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.7662604007969062,
+      &quot;y&quot; : 0.5050394562075162,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;100003&quot;,
+      &quot;topRightAverage&quot; : &quot;0f0002&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;50000f&quot;,
+      &quot;bottomRightAverage&quot; : &quot;6f0006&quot;,
+      &quot;centerAverage&quot; : &quot;230101&quot;,
+      &quot;suggestedBgColor&quot; : &quot;100003&quot;
+    },
+    &quot;urlId&quot; : &quot;a82k6djrs7fu9ztsjkho4ukfvbccbd&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5e4dc0219c7b6d49bd691e4f&quot;,
+      &quot;displayName&quot; : &quot;Bartosz Tylczynski&quot;,
+      &quot;firstName&quot; : &quot;Bartosz&quot;,
+      &quot;lastName&quot; : &quot;Tylczynski&quot;,
+      &quot;bio&quot; : &quot;&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159437420-A7ZB33YAX9DIBQWJUX9B/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/IMG_0027.JPG&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1875&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 85,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159437420-A7ZB33YAX9DIBQWJUX9B/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/IMG_0027.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582159437420-A7ZB33YAX9DIBQWJUX9B/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/IMG_0027.JPG" data-image-dimensions="2500x1875" data-image-focal-point="0.7662604007969062,0.5050394562075162" alt="IMG_0027.JPG"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4dd2f173f9fa7acd699397"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-9bf4c8bcb7f7b53f7d77"><div class="sqs-block-content"><div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/news" class="sqs-block-button-element--large sqs-block-button-element" >Read</a>
+</div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Thu, 20 Feb 2020 02:15:19 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4dd0b1f1e43c4855259a45" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4dd2205e0c794068e98f16"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4dd2205e0c794068e98f16"><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f8a7ee975bd88a8c897f"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Leave a message for Kagey</h3><p class="sqsrte-small" style="white-space:pre-wrap;">And we’ll get back to you</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-054837ae5587d9c46a09"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-eeabcc5469acd327aca6"><div class="sqs-block-content">
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5e4dd2205e0c794068e98f14"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://kageyofficial.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5e4dd2205e0c794068e98f14',
+      collectionId: '5e4dd0b1f1e43c4855259a44',
+      objectName: 'page-section-5e4dd2205e0c794068e98f16'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    First Name
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    Last Name
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                >
+                </textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button" class="form-button-wrapper form-button-wrapper--align-left">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/booking</link>
+      <title>Booking</title>
+      <pubDate>Thu, 20 Feb 2020 00:25:11 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4dd0bbf47c3c6c38eb9cfc" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4dd1571a753f6e8540cac0"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4dd1571a753f6e8540cac0"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c4cebce338668c1df500"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Booking</h2><p style="text-align:center;white-space:pre-wrap;" class=""><a href="mailto:kagey.business@gmail.com?subject=Booking%20a%20show">kagey.business@gmail.com</a></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="tel:+447706230536">+44(0)7706230536</a></p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>booking</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/music</link>
+      <title>Music</title>
+      <pubDate>Thu, 20 Feb 2020 16:23:43 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4dd75521989a778bb64779" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4de6919625b1547469e3f8"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+     style="min-height: 10vh;" 
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4de6919625b1547469e3f8"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2c715d8fa07ef5d903c7"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;"><a href="/albums">Albums</a></h4><h4 style="text-align:center;white-space:pre-wrap;"><a href="/singles">Singles</a></h4></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-a9c11545075b5520f178"><div class="sqs-block-content">
+  
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-none individual-animation-none individual-text-animation-none image-position-left " data-scrolled>
+
+        <div class="intrinsic">
+          <div
+          
+          
+          class="image-inset content-fit" 
+          
+          
+          data-animation-role="image"
+          data-description=""
+          
+    data-animation-override
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163726607-II58OWJKIM86V3QIWD15/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+artwork+2.0.png" alt="Rainbow - “Got Blondie and Ax on my phone, they blowing it still”“Just take a step away, I’m tryna see young baby’s frame"“I’m big and I’m sexy except ”“That’s the me I had to kill cause that me wasn’t me”" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163726607-II58OWJKIM86V3QIWD15/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+artwork+2.0.png" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163726607-II58OWJKIM86V3QIWD15/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+artwork+2.0.png" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt="Rainbow artwork 2.0.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+            
+    data-animation-override
+  ><h3 style="white-space:pre-wrap;">Rainbow</h3></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+            
+    data-animation-override
+  ><p class="" style="white-space:pre-wrap;">“Got Blondie and Ax on my phone, they blowing it still”</p><p class="" style="white-space:pre-wrap;">“Just take a step away, I’m tryna see young baby’s frame"</p><p class="" style="white-space:pre-wrap;">“I’m big and I’m sexy except ”</p><p class="" style="white-space:pre-wrap;">“That’s the me I had to kill cause that me wasn’t me”</p></div></div>
+            
+
+            
+            <div class="image-button-wrapper"><div class="image-button sqs-dynamic-text"><div class="image-button-inner">
+              <a href="">Listen</a>
+            </div></div></div>
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-fbc135cefb1f9a835a45"><div class="sqs-block-content">
+  
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-fade-in individual-animation-none individual-text-animation-none image-position-right  image-linked" data-scrolled>
+
+        <div class="intrinsic">
+          <div
+          
+          
+          class="image-inset content-fit" 
+          
+          
+          data-animation-role="image"
+          data-description=""
+          
+    data-animation-override
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163970680-AM4AZS28B8UMSGT355W1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+single+1.png" alt="Another Alibi - “I’ll never judge a broken doll, we’re toys and that’s all right”“She lost her soul”“If you man want wifeys stop going for hoes”" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163970680-AM4AZS28B8UMSGT355W1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+single+1.png" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163970680-AM4AZS28B8UMSGT355W1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+single+1.png" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt="Rainbow single 1.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+            
+    data-animation-override
+  ><h3 style="white-space:pre-wrap;">Another Alibi</h3></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+            
+    data-animation-override
+  ><p class="" style="white-space:pre-wrap;">“I’ll never judge a broken doll, we’re toys and that’s all right”</p><p class="" style="white-space:pre-wrap;">“She lost her soul”</p><p class="" style="white-space:pre-wrap;">“If you man want wifeys stop going for hoes”</p></div></div>
+            
+
+            
+            <div class="image-button-wrapper"><div class="image-button sqs-dynamic-text"><div class="image-button-inner">
+              <a href="https://ampl.ink/ob5Nv" target="_blank">Listen</a>
+            </div></div></div>
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4de8caa84e1d09ebff4df0"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(vmax / 10); padding-bottom: calc(vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4de8caa84e1d09ebff4df0"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-2c419442ff784d1f96f8"><div class="sqs-block-content">
+  
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-fade-in individual-animation-none individual-text-animation-none image-position-left  image-linked" data-scrolled>
+
+        <div class="intrinsic">
+          <div
+          
+          
+          class="image-inset content-fit" 
+          
+          
+          data-animation-role="image"
+          data-description=""
+          
+    data-animation-override
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582164259774-OQ5QV2KHHLRZFOAB0LVC/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Wonderland+Cover.png" alt="Wonderland EP - “I’m a breezy soul who faints in motions then spaces out and goes through the motions”“So what do we say to the dead, you're sad but&nbsp;act happy, pretend”“My mind just goes places I slip through hazes and phases”" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582164259774-OQ5QV2KHHLRZFOAB0LVC/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Wonderland+Cover.png" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582164259774-OQ5QV2KHHLRZFOAB0LVC/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Wonderland+Cover.png" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt="Wonderland Cover.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+            
+    data-animation-override
+  ><h3 style="white-space:pre-wrap;">Wonderland EP</h3></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+            
+    data-animation-override
+  ><p class="" style="white-space:pre-wrap;">“I’m a breezy soul who faints in motions then spaces out and goes through the motions”</p><p class="" style="white-space:pre-wrap;">“So what do we say to the dead, you're sad but&nbsp;act happy, pretend”</p><p class="" style="white-space:pre-wrap;">“My mind just goes places I slip through hazes and phases”</p></div></div>
+            
+
+            
+            <div class="image-button-wrapper"><div class="image-button sqs-dynamic-text"><div class="image-button-inner">
+              <a href="https://ampl.ink/7QZbm" target="_blank">Listen</a>
+            </div></div></div>
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>music</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/video</link>
+      <title>Video</title>
+      <pubDate>Thu, 20 Feb 2020 16:06:02 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4dd76348619f147e1c7a7e" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4deaadfc99d17340371ead"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 100,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4deaadfc99d17340371ead"><div class="row sqs-row"><div class="col sqs-col-7 span-7"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&quot;html&quot;:&quot;Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.&quot;&#125;,&quot;customThumb&quot;:&quot;5e4deaadfc99d17340371eab&quot;,&quot;html&quot;:&quot;&lt;iframe src=\&quot;//www.youtube.com/embed/1ld5hoZfkSg?wmode=opaque&amp;amp;enablejsapi=1\&quot; height=\&quot;480\&quot; width=\&quot;854\&quot; scrolling=\&quot;no\&quot; frameborder=\&quot;0\&quot; allowfullscreen=\&quot;\&quot;&gt;\n&lt;/iframe&gt;&quot;,&quot;url&quot;:&quot;https://www.youtube.com/watch?v=1ld5hoZfkSg&quot;,&quot;width&quot;:854,&quot;height&quot;:480,&quot;providerName&quot;:&quot;YouTube&quot;,&quot;thumbnailUrl&quot;:&quot;https://i.ytimg.com/vi/1ld5hoZfkSg/hqdefault.jpg&quot;,&quot;resolvedBy&quot;:&quot;youtube&quot;&#125;" data-block-type="32" id="block-28965fcbc791b1adda7b"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper" style="padding-bottom:56.20609%;"><div class="sqs-video-wrapper" data-html="&lt;iframe src=&quot;//www.youtube.com/embed/1ld5hoZfkSg?wmode=opaque&amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;<br/>&lt;/iframe&gt;" data-provider-name="YouTube"></div></div></div></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-3e7cf751d82972270128"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-652badd9c5279aa2b5b5"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Pretty Bird</h2><p class="" style="white-space:pre-wrap;">“There’s something I need to see, person I need to be, my spirit, my soul and my chi, ascended one day I’ll be”</p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>video</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Blog Post Title Two</title>
+      <link>/news/blog-post-title-two-blx75-nYRZx</link>
+      <content:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. </p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-two-blx75-nYRZx</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Mar 2019 17:07:41 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:07:41</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:07:41</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[6]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a444108d/1582159745578/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a444108d/1582159745578/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-5e4dd775a03ec219a444108d</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5e4dd775a03ec219a444108d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5e4dd775a03ec219a444108d]]></excerpt:encoded>
+      <pubDate>Mon, 11 Mar 2019 17:07:41 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:07:41</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:07:41</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Blog Post Title Four</title>
+      <link>/news/blog-post-title-four-9a763-YpiLV</link>
+      <content:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. </p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-four-9a763-YpiLV</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Mar 2019 17:04:06 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:04:06</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:04:06</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[8]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a4441095/1582159749207/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a4441095/1582159749207/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-5e4dd775a03ec219a4441095</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5e4dd775a03ec219a4441095]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5e4dd775a03ec219a4441095]]></excerpt:encoded>
+      <pubDate>Mon, 11 Mar 2019 17:04:06 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:04:06</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:04:06</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Blog Post Title Three</title>
+      <link>/news/blog-post-title-three-n2psh-zVLyM</link>
+      <content:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. </p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-three-n2psh-zVLyM</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Mar 2019 17:05:52 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:05:52</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:05:52</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a4441093/1582159747501/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a4441093/1582159747501/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-5e4dd775a03ec219a4441093</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5e4dd775a03ec219a4441093]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5e4dd775a03ec219a4441093]]></excerpt:encoded>
+      <pubDate>Mon, 11 Mar 2019 17:05:52 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:05:52</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:05:52</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Blog Post Title One</title>
+      <link>/news/blog-post-title-one-lgk2c-RUi4w</link>
+      <content:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. </p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-one-lgk2c-RUi4w</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Mon, 11 Mar 2019 17:15:07 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:15:07</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:15:07</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[12]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a4441097/1582159743724/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5e4dc21dd5f09e3d18e62a1f/5e4dd775a03ec219a444108b/5e4dd775a03ec219a4441097/1582159743724/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-5e4dd775a03ec219a4441097</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5e4dd775a03ec219a4441097]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5e4dd775a03ec219a4441097]]></excerpt:encoded>
+      <pubDate>Mon, 11 Mar 2019 17:15:07 +0000</pubDate>
+      <wp:post_date>2019-03-11 17:15:07</wp:post_date>
+      <wp:post_date_gmt>2019-03-11 17:15:07</wp:post_date_gmt>
+      <dc:creator>waskii.business@gmail.com</dc:creator>
+    </item>
+    <item>
+      <link>/albums</link>
+      <title>Albums</title>
+      <pubDate>Thu, 20 Feb 2020 16:23:57 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4de9c121989a778bb9b5bf" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4de9c121989a778bb9b5c2"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(vmax / 10); padding-bottom: calc(vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4de9c121989a778bb9b5c2"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-acf25ae94763ac964133"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;"><a href="/albums">Albums</a></h4><h4 style="text-align:center;white-space:pre-wrap;"><a href="/singles">Singles</a></h4></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-6fd2d81dd5510873c519"><div class="sqs-block-content">
+  
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-none individual-animation-none individual-text-animation-none image-position-right " data-scrolled>
+
+        <div class="intrinsic">
+          <div
+          
+          
+          class="image-inset content-fit" 
+          
+          
+          data-animation-role="image"
+          data-description=""
+          
+    data-animation-override
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163726607-II58OWJKIM86V3QIWD15/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+artwork+2.0.png" alt="Rainbow - “Got Blondie and Ax on my phone, they blowing it still”“Just take a step away, I’m tryna see young baby’s frame"“I’m big and I’m sexy except ”“That’s the me I had to kill cause that me wasn’t me”" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163726607-II58OWJKIM86V3QIWD15/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+artwork+2.0.png" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163726607-II58OWJKIM86V3QIWD15/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+artwork+2.0.png" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt="Rainbow artwork 2.0.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+            
+    data-animation-override
+  ><h3 style="white-space:pre-wrap;">Rainbow</h3></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+            
+    data-animation-override
+  ><p class="" style="white-space:pre-wrap;">“Got Blondie and Ax on my phone, they blowing it still”</p><p class="" style="white-space:pre-wrap;">“Just take a step away, I’m tryna see young baby’s frame"</p><p class="" style="white-space:pre-wrap;">“I’m big and I’m sexy except ”</p><p class="" style="white-space:pre-wrap;">“That’s the me I had to kill cause that me wasn’t me”</p></div></div>
+            
+
+            
+            <div class="image-button-wrapper"><div class="image-button sqs-dynamic-text"><div class="image-button-inner">
+              <a href="">Listen</a>
+            </div></div></div>
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4de9c121989a778bb9b5c4"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(vmax / 10); padding-bottom: calc(vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4de9c121989a778bb9b5c4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-b0fbce914d161ecd0507"><div class="sqs-block-content">
+  
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-fade-in individual-animation-none individual-text-animation-none image-position-left  image-linked" data-scrolled>
+
+        <div class="intrinsic">
+          <div
+          
+          
+          class="image-inset content-fit" 
+          
+          
+          data-animation-role="image"
+          data-description=""
+          
+    data-animation-override
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582164259774-OQ5QV2KHHLRZFOAB0LVC/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Wonderland+Cover.png" alt="Wonderland EP - “I’m a breezy soul who faints in motions then spaces out and goes through the motions”“So what do we say to the dead, you're sad but&nbsp;act happy, pretend”“My mind just goes places I slip through hazes and phases”" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582164259774-OQ5QV2KHHLRZFOAB0LVC/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Wonderland+Cover.png" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582164259774-OQ5QV2KHHLRZFOAB0LVC/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Wonderland+Cover.png" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt="Wonderland Cover.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+            
+    data-animation-override
+  ><h3 style="white-space:pre-wrap;">Wonderland EP</h3></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+            
+    data-animation-override
+  ><p class="" style="white-space:pre-wrap;">“I’m a breezy soul who faints in motions then spaces out and goes through the motions”</p><p class="" style="white-space:pre-wrap;">“So what do we say to the dead, you're sad but&nbsp;act happy, pretend”</p><p class="" style="white-space:pre-wrap;">“My mind just goes places I slip through hazes and phases”</p></div></div>
+            
+
+            
+            <div class="image-button-wrapper"><div class="image-button sqs-dynamic-text"><div class="image-button-inner">
+              <a href="https://ampl.ink/7QZbm">Listen</a>
+            </div></div></div>
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>albums</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/singles</link>
+      <title>Singles</title>
+      <pubDate>Thu, 20 Feb 2020 16:04:35 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5e4de9e26344df07b0f9440a" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5e4de9e26344df07b0f9440d"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(vmax / 10); padding-bottom: calc(vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5e4de9e26344df07b0f9440d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-da21f25611901bd1714d"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;"><a href="/albums">Albums</a></h4><h4 style="text-align:center;white-space:pre-wrap;"><a href="/singles">Singles</a></h4></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-13fefacad62f57ae2d1d"><div class="sqs-block-content">
+  
+  
+
+    
+
+      <div class="image-block-outer-wrapper image-block-v2 design-layout-card combination-animation-fade-in individual-animation-none individual-text-animation-none image-position-left  image-linked" data-scrolled>
+
+        <div class="intrinsic">
+          <div
+          
+          
+          class="image-inset content-fit" 
+          
+          
+          data-animation-role="image"
+          data-description=""
+          
+    data-animation-override
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163970680-AM4AZS28B8UMSGT355W1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+single+1.png" alt="Another Alibi - “I’ll never judge a broken doll, we’re toys and that’s all right”“She lost her soul”“If you man want wifeys stop going for hoes”" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163970680-AM4AZS28B8UMSGT355W1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+single+1.png" data-image="https://images.squarespace-cdn.com/content/v1/5e4dc21dd5f09e3d18e62a1f/1582163970680-AM4AZS28B8UMSGT355W1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Rainbow+single+1.png" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt="Rainbow single 1.png"  />
+
+            <div class="image-overlay">
+            </div>
+
+          </div>
+
+        </div>
+
+        
+        <div class="image-card-wrapper" data-width-ratio>
+          <div class="image-card sqs-dynamic-text-container">
+
+            
+            <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+            
+    data-animation-override
+  ><h3 style="white-space:pre-wrap;">Another Alibi</h3></div></div>
+            
+
+            
+            <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+            
+    data-animation-override
+  ><p class="" style="white-space:pre-wrap;">“I’ll never judge a broken doll, we’re toys and that’s all right”</p><p class="" style="white-space:pre-wrap;">“She lost her soul”</p><p class="" style="white-space:pre-wrap;">“If you man want wifeys stop going for hoes”</p></div></div>
+            
+
+            
+            <div class="image-button-wrapper"><div class="image-button sqs-dynamic-text"><div class="image-button-inner">
+              <a href="https://ampl.ink/ob5Nv">Listen</a>
+            </div></div></div>
+            
+
+          </div>
+        </div>
+        
+
+      </div>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>singles</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
